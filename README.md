@@ -1,2 +1,13 @@
-# resume-miroshkin
-Резюме Ивана Мирошкина — Data Scientist
+# Мирошкин Иван Александрович
+
+Data Scientist — стажёр / Junior.
+
+[Открыть резюме в PDF](./resume_miroshkin_mts.pdf)
+
+## Проект в научной лаборатории
+
+**Анализ отзывов об университетских сервисах с использованием RuBERT.**
+
+Обучал модель для определения темы и тональности отзыва. Повысил macro-F1 с 0,77 (baseline) до 0,85.
+
+[Портфолио проектов на Python](https://github.com/mirovif/ProjectsPython)
